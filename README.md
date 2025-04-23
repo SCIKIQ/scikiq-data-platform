@@ -1,6 +1,6 @@
 # SCIKIQ Data Platform
 
-SCIKIQ is an **AI-powered, no-code data management platform** designed to unify and streamline enterprise data operations. It functions as a comprehensive **Data Fabric**, enabling organizations to integrate, govern, curate, and visualize data across diverse systems and environments.
+SCIKIQ is an **SCIKIQ is a unified data operating system that helps enterprises build their AI readiness layer.** designed to unify and streamline enterprise data operations. It functions as a comprehensive **Data Fabric**, enabling organizations to integrate, govern, curate, and visualize data across diverse systems and environments.
 
 ---
 
